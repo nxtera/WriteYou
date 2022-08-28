@@ -1,0 +1,2 @@
+# WriteYou
+A readme generator
