@@ -51,7 +51,7 @@ node index
 
 Gif of live application (sample)
 
-![me](https://github.com/nxtera/WriteYou/blob/master/assets/images/WriteYou.gif)
+![me](https://github.com/nxtera/WriteYou/blob/main/assets/images/WriteYou.gif)
 
 Video demonstration can be found via the following link.
 
