@@ -1,8 +1,8 @@
-# Test Example
+# GIF Maker (Test)
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-Testing WriteYou
+Convert videos into GIFs
 
 
 ## Table of Contents
@@ -15,19 +15,19 @@ Testing WriteYou
 
 
 ## Usage
-Provide answers to command prompts
+a web app to create gifs from videos.
 
 
 ## Installation
-Visit repo and download code
+Access www.gifmaker.com. Upload videos.
 
 
 ## Contribute 
-Asking
+By emailing me.
 
 
 ## Tests
-None
+Test using TDD method
 
 
 ## License
